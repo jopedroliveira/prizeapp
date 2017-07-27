@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="euromillions"/>
+	<classpathentry kind="src" path="com"/>
+	<classpathentry kind="src" path="net"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpasyncclient-cache-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpasyncclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpcore-ab-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpcore-nio-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/unirest-java-1.4.7.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/commons-beanutils-1.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/ghost4j-0.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/jna.jar"/>
+	<classpathentry kind="lib" path="/Users/PedroOliveira/Documents/JAVA/prizeapp/OCR_Server/lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
